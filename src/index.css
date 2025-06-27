@@ -1,0 +1,8 @@
+/* Slick Carousel styles */
+@import "/node_modules/slick-carousel/slick/slick.css";
+@import "/node_modules/slick-carousel/slick/slick-theme.css";
+
+/* Your custom styles start here */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
